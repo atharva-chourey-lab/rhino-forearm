@@ -1,0 +1,29 @@
+{
+  "title": "The Forearm Splits the Rhinos: Within-Specimen Centroid-Size Profiles of the Six Long Bones Separate All Five Living Rhinoceros Species",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Mallet et al. (2019) published landmark configurations for the six limb long bones — humerus, radius, ulna, femur, tibia, fibula — of the five living rhinoceros species, and analysed the shape of each bone separately. Centroid size (CS) entered that work only as a per-bone covariate for shape, and although species-mean CS was tabulated, no comparison of relative bone size within a specimen was ever made. This paper makes that comparison. We form each specimen's within-specimen centroid-size profile — log₁₀ CS of each bone centred on that specimen's own mean log₁₀ CS across its bones — from the openly released landmark files (308 specimen-bone files; 38 specimens with all six bones). The profile metric and permutation test were pre-registered for a two-species study before any measurement; that study's primary result is reproduced here (Ceratotherium simum vs Rhinoceros unicornis: profile distance 0.0355 log₁₀ units, permutation p = 0.0001). Extending the frozen metric to all five species, all 10 pairwise mean-profile distances are significant (10,000 permutations; p ≤ 0.040, uncorrected; 8 of 10 survive Bonferroni correction), the largest between Diceros bicornis and R. unicornis (0.0566, p = 0.0014). The separation is carried by relative size, not absolute size: in the pre-registered pair the stylopods sit at identical relative sizes and the difference lies in the forelimb zeugopod, and across the five species the forearm (radius + ulna) profile runs from −0.0450 in R. unicornis to −0.0072 in D. bicornis — the two forearm extremes are the most separated pair. Keywords: Rhinocerotidae; centroid size; geometric morphometrics; Gravibone; limb proportions; size allocation; pre-registration",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "rhinoceros",
+    "geometric morphometrics",
+    "forelimb",
+    "species discrimination"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/rhino-forearm",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
